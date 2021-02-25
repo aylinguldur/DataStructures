@@ -1,0 +1,4 @@
+﻿  ConsoleApplication21.cpp
+C:\Users\MYPCONE\Desktop\source\repos\Hash Fonksiyonu\ConsoleApplication21\ConsoleApplication21.cpp(84,6): warning C4101: 'i': yerel değişken başvurusu kaldırıldı
+C:\Users\MYPCONE\Desktop\source\repos\Hash Fonksiyonu\ConsoleApplication21\ConsoleApplication21.cpp(110): warning C4715: 'Hash::arama': tüm denetim yolları değer döndürmez
+  ConsoleApplication21.vcxproj -> C:\Users\MYPCONE\Desktop\source\repos\Hash Fonksiyonu\Debug\ConsoleApplication21.exe

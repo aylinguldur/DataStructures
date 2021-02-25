@@ -1,0 +1,3 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\MYPCONE\Desktop\source\repos\KuyrukFonks_dizi\ConsoleApplication7\ConsoleApplication7.cpp(68,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ConsoleApplication7.vcxproj -> C:\Users\MYPCONE\Desktop\source\repos\KuyrukFonks_dizi\Debug\ConsoleApplication7.exe

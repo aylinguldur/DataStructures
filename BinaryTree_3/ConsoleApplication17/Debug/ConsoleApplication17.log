@@ -1,0 +1,4 @@
+﻿  ConsoleApplication17.cpp
+C:\Users\MYPCONE\Desktop\source\repos\BinaryTree_3\ConsoleApplication17\ConsoleApplication17.cpp(70): warning C4715: 'Ara': tüm denetim yolları değer döndürmez
+C:\Users\MYPCONE\Desktop\source\repos\BinaryTree_3\ConsoleApplication17\ConsoleApplication17.cpp(92): warning C4715: 'Bul': tüm denetim yolları değer döndürmez
+  ConsoleApplication17.vcxproj -> C:\Users\MYPCONE\Desktop\source\repos\BinaryTree_3\Debug\ConsoleApplication17.exe

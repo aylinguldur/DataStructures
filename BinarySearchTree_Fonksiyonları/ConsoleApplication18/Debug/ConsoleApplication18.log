@@ -1,0 +1,4 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\MYPCONE\Desktop\source\repos\BinarySearchTree_Fonksiyonları\ConsoleApplication18\ConsoleApplication18.cpp(107): warning C4715: 'Carpım': tüm denetim yolları değer döndürmez
+C:\Users\MYPCONE\Desktop\source\repos\BinarySearchTree_Fonksiyonları\ConsoleApplication18\ConsoleApplication18.cpp(141): warning C4715: 'CarpımB': tüm denetim yolları değer döndürmez
+  ConsoleApplication18.vcxproj -> C:\Users\MYPCONE\Desktop\source\repos\BinarySearchTree_Fonksiyonları\Debug\ConsoleApplication18.exe
